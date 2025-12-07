@@ -43,7 +43,7 @@ Files follow the format: `[AttackVector]-[Severity]-[Platform].md`
 
 > MEV vulnerabilities involve opportunities for extracting value through transaction ordering, front-running, or arbitrage.
 
-- **[MagicLpAggregator Vulnerability](./MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
+- **[MagicLpAggregator Vulnerability](./Reports/MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
 
 <!-- Add more attack vectors below:
 ### Reentrancy
@@ -77,7 +77,7 @@ Files follow the format: `[AttackVector]-[Severity]-[Platform].md`
 
 > Moderate impact, exploitable under certain conditions.
 
-- **[MagicLpAggregator Vulnerability](./MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
+- **[MagicLpAggregator Vulnerability](./Reports/MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
 
 <!-- Add more Medium severity vulnerabilities here:
 - [Vulnerability Name](./FILE-NAME.md) - Description
@@ -97,7 +97,7 @@ Files follow the format: `[AttackVector]-[Severity]-[Platform].md`
 
 ### Code Arena
 
-- **[MagicLpAggregator Vulnerability](./MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
+- **[MagicLpAggregator Vulnerability](./Reports/MEV-MED-CODEARENA.md)** - Incorrect pricing leading to arbitrage loss
 
 <!-- Add more Code Arena vulnerabilities here:
 - [Vulnerability Name](./FILE-NAME.md) - Description
